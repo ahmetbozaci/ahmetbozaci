@@ -1,5 +1,8 @@
    # Hi there, I am Ahmet 👋 
-![](https://img.shields.io/badge/Microverse-blueviolet)     
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a full-stack web developer student.<br>
+I like collaborating with others to build digital solutions that solve real-world problems.
 
 <!--
 **ahmetbozaci/ahmetbozaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning:
   <ul>
      <li> JavaScript </li> 
      <li> React </li>
@@ -25,12 +28,16 @@ Here are some ideas to get you started:
      <li> HTML/CSS,Semantic UI</li>
      <li> Bootstrap </li>
   </ul>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmetbozaci) 
+  
+<!--
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmetbozaci) -->
 
 ![ahmetbozaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=vue-dark)
+<!-- Themes https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbozaci&theme=dracula)](https://github.com/ahmetbozaci/github-readme-stats)
+-->
 
 
 ##  📫 How to reach me: 
