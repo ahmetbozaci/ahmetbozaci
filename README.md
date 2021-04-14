@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,11 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ...
+   <ul>
+  <li> JavaScript </li> 
+  <li> React </li>
+  <li>Redux </li>
+  <li>Ruby on Rails </li>
+  <li>HTML/CSS,Semantic UI</li>
+  <li>Bootstrap </li>
+  <li> Tailwind CSS</li> 
+ </ul>
 ## Github Stats : 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmetbozaci)
 
-![ahmetbozaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=dracula)
+![ahmetbozaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbozaci&theme=dracula)](https://github.com/ahmetbozaci/github-readme-stats)
 
