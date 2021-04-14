@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 ![ahmetbozaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbozaci&theme=dracula)](https://github.com/ahmetbozaci/github-readme-stats)
+
+
+##  📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-Ahmet%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetbozaci/)](https://www.linkedin.com/in/ahmetbozaci/)
+[![Twitter Badge](https://img.shields.io/badge/-@ahmtbozaci-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmtbozaci)](https://twitter.com/ahmtbozaci)
