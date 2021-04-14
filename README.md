@@ -1,24 +1,9 @@
    # Hi there, I am Ahmet 👋 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a full-stack web developer student.<br>
-I like collaborating with others to build digital solutions that solve real-world problems.
-
+###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a full-stack web developer student.<br>
+###  I am daily working on Microverse program to improve my skills through building projects in pair programming with developers from all over the world
 <!--
-**ahmetbozaci/ahmetbozaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-
-- ⚡ Fun fact: ...
--->
-
 ### 🌱 I’m currently learning:
   <ul>
      <li> JavaScript </li> 
@@ -28,7 +13,11 @@ Here are some ideas to get you started:
      <li> HTML/CSS,Semantic UI</li>
      <li> Bootstrap </li>
   </ul>
+-->
   
+  
+ 
+## Github Stats : 
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmetbozaci) -->
 
