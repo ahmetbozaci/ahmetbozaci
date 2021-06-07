@@ -13,7 +13,7 @@ https://simpleicons.org/
 
  
  # Hi there, I am Ahmet 👋 
-![https://www.microverse.org/?grsf=04r25h](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 <!-- Use banner
 https://www.canva.com/create/banners/
 -->
