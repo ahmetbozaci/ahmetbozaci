@@ -30,18 +30,18 @@ https://www.canva.com/create/banners/
 
 <p align="center">
  <a href="https://twitter.com/ahmtbozaci" alt="Twitter">
-  <img width="30px"  src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg">
+  <img width="30px"  src="https://raw.githubusercontent.com/ahmetbozaci/ahmetbozaci/main/twitter.svg">
  </a>
  <a href="https://www.linkedin.com/in/ahmetbozaci/" alt="Linkedin">
-  <img width="30px" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg">
+  <img width="30px" src="https://raw.githubusercontent.com/ahmetbozaci/ahmetbozaci/main/linkedin.svg">
  </a>
  <a href="mailto:ahmt9417@gmail.com" alt="Contact me">
-  <img width="30px"  src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
+  <img width="30px"  src="https://raw.githubusercontent.com/ahmetbozaci/ahmetbozaci/main/mail.svg">
  </a>
 
 <!-- 
 <a href="" alt="Ahmet Bozaci Portfolio">
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+<img src="https://raw.githubusercontent.com/ahmetbozaci/ahmetbozaci/main/external-link.svg"></a>
 -->
  </p>
 </p>
