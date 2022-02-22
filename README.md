@@ -4,15 +4,22 @@ https://gist.github.com/rxaviers/7360908
 ## technologies Icons 
 https://simpleicons.org/
 -->
- 
- 📝 ***Feel free to contact me.*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/ahmetbozaci?label=Follow%20Me&style=social)](https://github.com/ahmetbozaci)
- <br>
- <br>
- [![Linkedin Badge](https://img.shields.io/badge/-Ahmet%20Bozacı-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetbozaci/)](https://www.linkedin.com/in/ahmetbozaci/)
-[![Twitter Badge](https://img.shields.io/badge/-@ahmtbozaci-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmtbozaci)](https://twitter.com/ahmtbozaci)
 
- 
- ### Hi there, I am Ahmet 👋 
+<a href="https://in.linkedin.com/in/ahmetbozaci">
+<img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+<a href="https://twitter.com/ahmtbozaci">
+<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
+<a href="mailto:ahmt9417@gmail.com">
+<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+
+[![Github](https://img.shields.io/github/followers/ahmetbozaci?label=Follow%20Me&style=social)](https://github.com/ahmetbozaci)
+
+<br>
+
+### Hi there, I am Ahmet 👋 
 
 <!-- Use banner
 https://www.canva.com/create/banners/
