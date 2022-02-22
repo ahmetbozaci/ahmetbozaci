@@ -5,15 +5,6 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 -->
 
-<a href="https://in.linkedin.com/in/ahmetbozaci">
-<img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="https://twitter.com/ahmtbozaci">
-<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a>
-<a href="mailto:ahmt9417@gmail.com">
-<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
 
 [![Github](https://img.shields.io/github/followers/ahmetbozaci?label=Follow%20Me&style=social)](https://github.com/ahmetbozaci)
 
@@ -32,10 +23,32 @@ https://www.canva.com/create/banners/
 <br>
 
 <!-- Visitors https://github.com/jwenjian/visitor-badge -->
+
+
+<p align="center">
+<i>Let's connect and chat!</i>
+
+<p align="center">
+ <a href="https://twitter.com/ahmtbozaci" alt="Twitter">
+  <img width="30px"  src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg">
+ </a>
+ <a href="https://www.linkedin.com/in/ahmetbozaci/" alt="Linkedin">
+  <img width="30px" src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg">
+ </a>
+ <a href="mailto:ahmt9417@gmail.com" alt="Contact me">
+  <img width="30px"  src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
+ </a>
+
+<!-- 
+<a href="" alt="Ahmet Bozaci Portfolio">
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+-->
+ </p>
+</p>
+  
 <p align="center"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=ahmetbozaci.visitor-badge&left_color=gray&right_color=green&left_text=HelloVisitors">
 </p>
-
 
 <!-- GitHub Activity Graph -->
 <!--
