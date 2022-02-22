@@ -27,9 +27,14 @@ https://www.canva.com/create/banners/
 ####  I am currently working at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Technical Support Engineer.<br>
   
   
-<!-- Github Stats -->
-<!-- Themes https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=monokai">
+<!-- Github Stats Themes https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=monokai">
+<br>
+
+<!-- Visitors https://github.com/jwenjian/visitor-badge -->
+<p align="center" width:"500"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ahmetbozaci.visitor-badge&left_color=gray&right_color=green&left_text=Hello%20Visitors" />
+</p>
 
 <!-- GitHub Activity Graph -->
 <!--
