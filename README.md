@@ -32,9 +32,10 @@ https://www.canva.com/create/banners/
 <br>
 
 <!-- Visitors https://github.com/jwenjian/visitor-badge -->
-<p align="center" width:"500"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ahmetbozaci.visitor-badge&left_color=gray&right_color=green&left_text=Hello%20Visitors" />
+<p align="center"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ahmetbozaci.visitor-badge&left_color=gray&right_color=green&left_text=HelloVisitors">
 </p>
+
 
 <!-- GitHub Activity Graph -->
 <!--
