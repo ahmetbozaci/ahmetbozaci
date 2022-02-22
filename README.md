@@ -17,7 +17,7 @@ https://simpleicons.org/
 <!-- Use banner
 https://www.canva.com/create/banners/
 -->
-###  I am currently working at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Technical Support Engineer.<br>
+####  I am currently working at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Technical Support Engineer.<br>
   
   
 <!-- Github Stats -->
