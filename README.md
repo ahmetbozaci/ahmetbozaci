@@ -12,28 +12,27 @@ https://simpleicons.org/
 [![Twitter Badge](https://img.shields.io/badge/-@ahmtbozaci-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ahmtbozaci)](https://twitter.com/ahmtbozaci)
 
  
- # Hi there, I am Ahmet 👋 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+ ### Hi there, I am Ahmet 👋 
+
 <!-- Use banner
 https://www.canva.com/create/banners/
 -->
-###  I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Full-Stack web developer student.<br>
-###  I am  working daily on Microverse program to improve my skills through building projects in pair programming with developers from all over the world
-
+###  I am currently working at [Microverse](https://www.microverse.org/?grsf=04r25h) as a Technical Support Engineer.<br>
   
   
- 
-## Github Stats : 
-<!--
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmetbozaci) 
--->
-
-![ahmetbozaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=vue-dark)
+<!-- Github Stats -->
 <!-- Themes https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=ahmetbozaci&show_icons=true&theme=monokai">
 
+<!-- GitHub Activity Graph -->
+<!--
+ <img align='right' width="500" src="https://activity-graph.herokuapp.com/graph?username=ahmetbozaci">
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbozaci&theme=dracula)](https://github.com/ahmetbozaci/github-readme-stats)
 -->
+
+
 
 
 
